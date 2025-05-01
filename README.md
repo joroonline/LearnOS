@@ -33,11 +33,12 @@ The goal is not to reinvent Linux, but to learn it deeply by gradually replacing
 
 ## Repository Structure
 
+```
 learnos/
 ├── docs/           # Markdown-based documentation
 ├── mnt/            # Eentire system
 └── README.md       # You're here
-
+```
 ---
 
 ## License
